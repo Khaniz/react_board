@@ -10,7 +10,7 @@ const Sidebar = () => {
                 <Link className="list-group-item list-group-item-action list-group-item-light p-3" to="/hello">Hello</Link>
                 <Link className="list-group-item list-group-item-action list-group-item-light p-3" to="/main">Main</Link>
                 <Link className="list-group-item list-group-item-action list-group-item-light p-3" to="/portfolio">PortFolio</Link>
-                <a className="list-group-item list-group-item-action list-group-item-light p-3" to="/board/list/123?page=22">Board</a>
+                <Link className="list-group-item list-group-item-action list-group-item-light p-3" to="/board/list/123?page=22">Board</Link>
             </div>
         </div>
     );

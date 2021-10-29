@@ -1,6 +1,6 @@
 import React from 'react';
 import PageTemplate from "../template/PageTemplate";
-import HelloComponent from "../components/HelloComponent";
+import HelloComponent from "../components/Hello/HelloComponent";
 
 const HelloPage = () => {
     return (
